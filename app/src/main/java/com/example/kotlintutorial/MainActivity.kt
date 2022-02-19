@@ -12,7 +12,6 @@ class MainActivity : AppCompatActivity() {
 //String
 //Primitive types (8) - Int, Double, Float, Char, Boolean, Byte, Sort , Long
 
-
 fun main() {
 
     //userdocuments.numberOfYears = 67
